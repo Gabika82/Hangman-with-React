@@ -7,7 +7,7 @@ Course project using React; includes images linked to different stages of the ga
 ## Look of the app
 
 <picture>
- <img alt="abstract sun" src="./images.Hangman-screenshot.png">
+ <img alt="abstract hangman" src="https://github.com/Gabika82/Hangman-with-React/blob/master/src/images/Hangman-screenshot.png">
 </picture>
 
 ## How to start the game
